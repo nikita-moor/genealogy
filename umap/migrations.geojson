@@ -35,6 +35,7 @@
 { "type": "Feature", "properties": { "family": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.220648, 52.158136 ], [ 83.191712, 52.053959 ] ] } },
 { "type": "Feature", "properties": { "family": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.075236, 52.304238 ], [ 82.626131, 49.948481 ] ] } },
 { "type": "Feature", "properties": { "family": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.876293, 50.533333 ], [ 83.707156, 52.190305 ] ] } },
-{ "type": "Feature", "properties": { "family": "чаус" }, "geometry": { "type": "LineString", "coordinates": [ [ 82.780069, 55.342167 ], [ 82.975673, 55.455246 ] ] } }
+{ "type": "Feature", "properties": { "family": "чаус" }, "geometry": { "type": "LineString", "coordinates": [ [ 82.780069, 55.342167 ], [ 82.975673, 55.455246 ] ] } },
+{"type":"Feature","properties":{"family":null},"geometry":{"type":"LineString","coordinates":[[80.244810318606397,51.214828569585393],[78.547731,50.756633]]}}
 ]
 }
