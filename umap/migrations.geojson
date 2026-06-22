@@ -40,13 +40,14 @@
 {"type":"Feature","properties":{"family":"егор"},"geometry":{"type":"LineString","coordinates":[[83.775761,53.346858],[84.944655,56.487209]]}},
 {"type":"Feature","properties":{"family":"егор"},"geometry":{"type":"LineString","coordinates":[[84.944655,56.487209],[87.742299,56.206347]]}},
 {"type":"Feature","properties":{"family":"егор"},"geometry":{"type":"LineString","coordinates":[[87.742299,56.206347],[84.941891,56.334303]]}},
-{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[68.243028,58.205197],[65.575138,55.6511]]}},
+{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[65.575138,55.6511],[68.243028,58.205197]]}},
 {"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[65.575138,55.6511],[66.312215,56.654694]]}},
 {"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[65.575138,55.6511],[66.904545,55.700567]]}},
-{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[65.575138,55.6511],[71.621393,55.028326]]}},
+{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[66.312215,56.654694],[71.621393,55.028326]]}},
 {"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[65.575138,55.6511],[85.075236,52.304238]]}},
 {"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[65.437364,56.165408],[82.29219,53.684984]]}},
 {"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[61.053989,57.559303],[70.625045,56.422107]]}},
-{"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[70.625045,56.422107],[82.29219,53.684984]]}}
+{"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[70.625045,56.422107],[82.29219,53.684984]]}},
+{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[68.243028,58.205197],[68.168934,58.487609]]}}
 ]
 }
