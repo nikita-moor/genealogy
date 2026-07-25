@@ -48,6 +48,7 @@
 {"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[65.437364,56.165408],[82.29219,53.684984]]}},
 {"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[61.053989,57.559303],[70.625045,56.422107]]}},
 {"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[70.625045,56.422107],[82.29219,53.684984]]}},
-{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[68.243028,58.205197],[68.168934,58.487609]]}}
+{"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[68.243028,58.205197],[68.168934,58.487609]]}},
+{"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[82.161395,53.497476],[82.145657,53.72041]]}}
 ]
 }
