@@ -32,7 +32,7 @@
 {"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[82.161395,53.497476],[84.891217,55.22641]]}},
 {"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[83.666371,52.392305],[83.759537,52.605397],[83.624439,52.521158]]}},
 {"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[83.624439,52.521158],[82.779457,52.492167]]}},
-{"type":"Feature","properties":{"family":null},"geometry":{"type":"LineString","coordinates":[[82.220648,52.158136],[83.191712,52.053959]]}},
+{"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[82.220648,52.158136],[83.191712,52.053959]]}},
 {"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[85.075236,52.304238],[82.626131,49.948481]]}},
 {"type":"Feature","properties":{"family":null},"geometry":{"type":"LineString","coordinates":[[81.876293,50.533333],[83.707156,52.190305]]}},
 {"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[82.780069,55.342167],[82.975673,55.455246]]}},
@@ -49,6 +49,8 @@
 {"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[61.053989,57.559303],[70.625045,56.422107]]}},
 {"type":"Feature","properties":{"family":"суз"},"geometry":{"type":"LineString","coordinates":[[70.625045,56.422107],[82.29219,53.684984]]}},
 {"type":"Feature","properties":{"family":"тоб"},"geometry":{"type":"LineString","coordinates":[[68.243028,58.205197],[68.168934,58.487609]]}},
-{"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[82.161395,53.497476],[82.145657,53.72041]]}}
+{"type":"Feature","properties":{"family":"сел"},"geometry":{"type":"LineString","coordinates":[[82.161395,53.497476],[82.145657,53.72041]]}},
+{"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[83.666371,52.392305],[82.220648,52.158136]]}},
+{"type":"Feature","properties":{"family":"чаус"},"geometry":{"type":"LineString","coordinates":[[83.666371,52.392305],[83.608236,52.229748]]}}
 ]
 }
